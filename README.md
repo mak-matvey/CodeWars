@@ -1,2 +1,2 @@
-### 📈 Codewars:
-<img src='https://www.codewars.com/users/olegkrasilev/badges/large'>
+### My Codewars statistic:
+<img src='https://www.codewars.com/users/makmatvey/badges/large'>
